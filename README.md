@@ -56,3 +56,17 @@ Mahlet Endeshaw
 
 
 
+
+
+\## Learning Outcomes
+
+
+
+\- Understand Git repository initialization.
+
+\- Practice staging and committing files.
+
+\- Learn to upload a project to GitHub.
+
+\- Practice version control using Git.
+
